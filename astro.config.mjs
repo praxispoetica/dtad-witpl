@@ -5,10 +5,27 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://vokapelman.com',
 	integrations: [
 		starlight({
-			title: 'Docs with Tailwind',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'v. o. kapelman',
+			  favicon: 'favicon.ico',
+			  head: [
+    			// Add ICO favicon fallback for Safari.
+    			{
+			        tag: 'link',
+  				    attrs: {
+        				rel: 'icon',
+        				href: 'favicon.ico',
+        				sizes: '32x32',
+    		  			type: 'image/x-icon',
+					},
+    			},
+  			  ],
+			logo: {
+        		src: './src/assets/vk-180x180.jpg',
+      		},
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/praxispoetica/dtad-witpl' }],
 			sidebar: [
 				{
 					label: 'Guides',
