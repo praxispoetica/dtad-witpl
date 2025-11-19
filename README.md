@@ -1,4 +1,6 @@
-v. o. kapelman website
+v. o. kapelman writings
+
+Starting off with: Denying The Amerikan Dream. Wandering into the Promised Land. Who Promised What to Who, Now?
 
 ---
 
