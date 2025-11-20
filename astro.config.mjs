@@ -47,10 +47,27 @@ export default defineConfig({
 						icon: 'open-book',
 						items: [
 							{ label: 'Read on!', items: ['works/works']},
-							{ label: 'Novels', autogenerate: { directory: 'works/novels' }},
-							{ label: 'Poetry', autogenerate: { directory: 'works/poetry' }},
-							{ label: 'Short Stories', autogenerate: { directory: 'works/short-stories' }},
-							{ label: 'Flash Fiction', autogenerate: { directory: 'works/flash-fiction' }},
+							{ label: 'Poetry', autogenerate: { directory: 'works/poetry' }, collapsed: true },
+							{ label: 'Flash Fiction', autogenerate: { directory: 'works/flash-fiction' }, collapsed: true },
+							{ label: 'Short Stories', autogenerate: { directory: 'works/short-stories' }, collapsed: true },
+							// { label: 'Novels', autogenerate: { directory: 'works/novels' }},
+							{ label: 'Novels', items: [
+								'works/novels/novels', 
+								{ 
+									label: "Denying The Amerikan Dream", 
+									items: [
+										'works/novels/dtad-witpl/dtad-witpl', 
+										'works/novels/dtad-witpl/part-1',
+										'works/novels/dtad-witpl/part-2',
+										'works/novels/dtad-witpl/part-3',
+										'works/novels/dtad-witpl/part-4',
+										'works/novels/dtad-witpl/part-5',
+										'works/novels/dtad-witpl/part-6',
+										'works/novels/dtad-witpl/part-7',
+									],
+									collapsed: true
+								},
+							]},
 						],
           			},
         		],

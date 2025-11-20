@@ -1,10 +1,9 @@
 ---
-title: Denying the Amerikan Dream. Wandering Into the Promised Land
-description: Novel
+title: Wandering Into the Promised Land
+subtitle: Who Promised What to Who, Now?
+description: Novel by v. o. kapelman
 ---
 
-## Denying the Amerikan Dream
+## Wandering Into the Promised Land
 
-### Wandering Into the Promised Land
-
-#### Who Promised What to Who, Now?
+### Who Promised What to Who, Now?
