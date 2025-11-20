@@ -25,6 +25,10 @@ export default defineConfig({
 			logo: {
         		src: './src/assets/vk-180x180.jpg',
       		},
+			components: {
+				Footer: './src/components/ThinFooter.astro',
+	  		},
+			description: 'v. o. kapelman personal website and blog',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/praxispoetica/dtad-witpl' }, {icon: 'blueSky', label: 'Bluesky', href: 'https://bsky.app/profile/vokapelman.bsky.social'} ],
 			sidebar: [
 				{
