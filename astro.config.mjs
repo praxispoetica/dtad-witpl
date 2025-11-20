@@ -34,11 +34,15 @@ export default defineConfig({
 							name: 'v. o. kapelman',
 							url: 'https://vokapelman.com',
 							picture: './src/assets/vk-180x180.jpg',
-							readingTime: true,
-							words: true,
 						},
-					}
-				})
+					},
+					metrics: {
+                		readingTime: true,
+                		words: 'rounded',
+            		},
+					recentPostCount: 10,
+              		postCount: 15,
+				}),
 			],
 			components: {
 				Footer: './src/components/ThinFooter.astro',
