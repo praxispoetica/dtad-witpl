@@ -33,7 +33,7 @@ export default defineConfig({
 						vokapelman: {
 							name: 'v. o. kapelman',
 							url: 'https://vokapelman.com',
-							picture: 'src/assets/vk-180x180.jpg',
+							picture: './src/assets/vk-180x180.jpg',
 							readingTime: true,
 							words: true,
 						},
