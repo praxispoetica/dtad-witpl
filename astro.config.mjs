@@ -29,6 +29,18 @@ export default defineConfig({
       		},
 			plugins: [
 		        starlightSidebarTopics([
+					{
+						label: 'About v. o. kapelman',
+						link: '/about',
+						icon: 'pen',
+						items: ['about'],
+					},
+					{
+						label: 'vokapelman Blog',
+						link: '/blog',
+						icon: 'pencil',
+						items: ['blog/blog-post-20251119'],
+					},
      				{
             			label: 'Guides',
             			link: '/guides/example',
@@ -41,12 +53,6 @@ export default defineConfig({
             			icon: 'information',
             			items: ['reference/example'],
           			},
-					{
-						label: 'vokapelman Blog',
-						link: '/blog',
-						icon: 'pencil',
-						items: ['blog/blog-post-20251119'],
-					},
         		]),
 				starlightBlog({
 					title: 'v. o. kapelman blog',
