@@ -1,7 +1,66 @@
-v. o. kapelman writings
+## v. o. kapelman writings
 
-Starting off with: Denying The Amerikan Dream. Wandering into the Promised Land. Who Promised What to Who, Now?
+Visit: [v. o. kapelman writings](https://vokapelman.com/)
 
+## Writings
+
+### v. o. kapelman blog
+
+- A diary for the purpose of sharing a "writing in public" writing and publishing process.
+- Visit [v. o. kapelman blog](https://vokapelman.com/blog/)
+
+### First Novel
+
+Starting off with: 
+
+- series: Denying The Amerikan Dream. 
+- title: Wandering into the Promised Land. 
+- subtitle: Who Promised What to Who, Now?
+
+Community edition to be published in serial form:
+
+| Part Serialized | Estimated date | Published date | Comments |
+| --- | --- | --- | --- |
+| Part I | 2025-12-02 | | Should definitely be ready |
+
+### Additional Works to be published
+
+#### Poetry Collections
+
+#### Flash Fiction Collections
+
+#### Short Story Collections
+
+#### Mixed/Miscellaneous Collections
+
+- 1970s Poetry and Short Stories
+- 1980s Poetry and Short Stories
+- 1990s Poetry, Flash Fiction, and Short Stories
+- 2000s ...
+- 2010s ...
+- 2020s ...
+
+#### Non-Fiction (writing process)
+
+- My stunningly formative experience in the Alberto Mediza Poetry Workshop (early 1970s)
+
+## Development
+
+- [Astro Web Framework](https://astro.build/)
+- [Official Vite Tailwind plugin](https://docs.astro.build/en/guides/styling/#tailwind) 
+    - Automatically installed via Astro Starlight Tailwind Template as per [Starlight Docs. Tailwind CSS](https://starlight.astro.build/guides/css-and-tailwind/#tailwind-css)
+- [Astro Starlight (Documentation template)](https://starlight.astro.build/)
+- [Starlight Plugins and Integrations](https://starlight.astro.build/resources/plugins/)
+	- Starlight Blog [GH HiDeoo / starlight-blog](https://github.com/HiDeoo/starlight-blog)
+		- [Starlight Blog Demo](https://starlight-blog-docs.vercel.app/)
+			- [Starlight Blog Demo Docs](https://starlight-blog-docs.vercel.app/getting-started/)
+			- [Starlight Blog Demo Blog](https://starlight-blog-docs.vercel.app/blog)
+	- Starlight Sidebar Topics [GH HiDeoo / starlight-sidebar-topics](https://github.com/HiDeoo/starlight-sidebar-topics)
+		- [Starlight Sidebar Topics Demo/Docs](https://starlight-sidebar-topics.netlify.app/)
+			- [Docs](https://starlight-sidebar-topics.netlify.app/docs/getting-started/)
+			- [Demo](https://starlight-sidebar-topics.netlify.app/demo/)
+- Review [Git commits history](https://github.com/praxispoetica/dtad-witpl/commits/main/) to see development history
+    - Was using a different approach, then adopted a Starlight based approach as of [November 19 commit. `build: scrapped everything and installed Starlight with Tailwind template`](https://github.com/praxispoetica/dtad-witpl/commit/14b40a72778d9bc28482e87dde7882d320f202f1)
 ---
 
 Based on:
