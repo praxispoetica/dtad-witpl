@@ -36,10 +36,10 @@ export default defineConfig({
 						items: ['about'],
 					},
 					{
-						label: 'vokapelman Blog',
-						link: '/blog',
+						label: 'PraxisPoetica process notes',
+						link: '/notes',
 						icon: 'pencil',
-						items: ['blog/blog-post-20251119'],
+						items: ['notes/note-20251119'],
 					},
      				{
             			label: 'Works',
@@ -72,11 +72,12 @@ export default defineConfig({
           			},
         		],
 				{
-					exclude: ['/blog', '/blog/**/*', '/works/short-stories', '/works/short-stories/**/*', '/works/flash-fiction', '/works/flash-fiction/**/*', '/works/poetry', '/works/poetry/**/*', '/works/novels', '/works/novels/**/*'], 
+					exclude: ['/notes', '/notes/**/*', '/works/short-stories', '/works/short-stories/**/*', '/works/flash-fiction', '/works/flash-fiction/**/*', '/works/poetry', '/works/poetry/**/*', '/works/novels', '/works/novels/**/*'], 
 				}
 				),
 				starlightBlog({
-					title: 'v. o. kapelman blog',
+					prefix: 'notes',
+					title: 'PraxisPoetica process notes',
 					authors: {
 						vokapelman: {
 							name: 'v. o. kapelman',
