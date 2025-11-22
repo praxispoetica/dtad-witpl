@@ -29,25 +29,20 @@ hero:
       variant: minimal
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
 
 ## Next steps
-
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
-	</Card>
-	<Card title="Change page layout" icon="document">
-		Delete `template: splash` in `src/content/docs/index.mdx` to display a
-		sidebar on this page.
-	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
-	</Card>
+    <LinkCard
+        title="v. o. kapelman writings (poems, flash fiction, short stories, novels)"
+        description="Included here are poems, flash fiction pieces, short stories, novels, bundled in works published here which are collections of each."
+        href="/works/works/"
+        icon="right-arrow"
+    />
+    <LinkCard
+        title="PraxisPoetica writing process notes by v. o. kapelman"
+        description="A writer all my life. Like a legal practice. Or a medical practice. A factory worker. PraxisPoetica. Still writing. But now, living a writing publishing practice."
+        href="/notes"
+        icon="right-arrow"
+    />
 </CardGrid>
