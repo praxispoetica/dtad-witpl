@@ -27,6 +27,10 @@ export default defineConfig({
 			logo: {
         		src: './src/assets/vk-180x180.jpg',
       		},
+			tableOfContents: {
+				minHeadingLevel: 2,
+				maxHeadingLevel: 6
+			},
 			plugins: [
 		        starlightSidebarTopics([
 					{
