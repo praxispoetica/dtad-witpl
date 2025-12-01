@@ -58,7 +58,7 @@ export default defineConfig({
 							{ label: 'Novels', items: [
 								'works/novels/novels', 
 								{ 
-									label: "Denying The Amerikan Dream", 
+									label: "Series: Denying The Amerikan Dream", 
 									items: [
 										'works/novels/dtad-witpl/dtad-witpl', 
 										'works/novels/dtad-witpl/part-1',
@@ -114,4 +114,9 @@ export default defineConfig({
 	vite: {
 		plugins: [tailwindcss()],
 	},
+	markdown: {
+		shikiConfig: {
+    		wrap: true,              // Avoid horizontal scrolling with word wrapping.
+    	},
+	},	
 });
