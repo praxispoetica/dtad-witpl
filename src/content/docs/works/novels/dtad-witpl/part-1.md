@@ -109,11 +109,9 @@ It all happened at the Mexican food restaurant; we went there for dinner, and I 
 
 Clearer than the details of the dinner, and most telling, is this little excerpt from a letter my father wrote to Ruben right after I took the bull by the horns and which Ruben showed me years later.
 
-`Home Sweet Home   `
-
-`Sunday night    `
-
-`August 20, 1967    `
+`Home Sweet Home`    
+`Sunday night`    
+`August 20, 1967`    
 
 `....Early this evening your brother sat in judgment on his parents; in response to my repeated question to him asking why he had decided to leave home on the eve of his 21st birthday he replied that he did so because his parents had never treated as a person. This to me is as mystifying as the news just now that a car sped by the American Embassy in London today and sprayed it with bullets from a machine gun.`
 
@@ -494,9 +492,7 @@ Lynn back yet? No? How weird! OK, he'll have it fixed tomorrow lunch time, it's 
 
 Note (Aaron can see Lynn exploding in laughter, her lips gone soft as her mouth scoffs wide open, writing this, showing it to her friend, laughing even more): 
 
-```text
-You know, it's over. No use crying over spilt milk. I'm not going to be there, spending some time with my friend. Have a great life. --Lynn
-```
+`You know, it's over. No use crying over spilt milk. I'm not going to be there, spending some time with my friend. Have a great life. --Lynn`
 
 --Do you mind if I sleep a couple more hours?
 
