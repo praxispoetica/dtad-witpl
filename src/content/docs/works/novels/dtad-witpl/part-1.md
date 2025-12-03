@@ -181,7 +181,6 @@ I roll up my sleeping bag and ride on to the next town for breakfast.
 
 [^1]: [Wikipedia. No Niggers. No Jews. No Dogs](https://en.wikipedia.org/wiki/No_Niggers%2C_No_Jews%2C_No_Dogs)
 
-
 ---
 
 ### Automat *sans* Angel
@@ -256,7 +255,6 @@ For the first time I see her unblinking black eyes. She drops her arm which was 
 I get quiet and my route in my pocket. My map. Straight. I turn. I go to the bike. Start the engine. On the bike, start my day. Next stop knot: Denver, CO (I-70)... 
 
 🎵 I'm on the road again... 🎵
-
 
 ---
 
@@ -439,7 +437,6 @@ And in minutes I'm there... and there's a place to park motorbikes right there..
 
 To rest up somewhere? Or not? Why don't we get E Lansing and Lynn over with, rest there and move on. We gain time that way instead of losing it. No, we won't lose it. Let's do it, three hours more and a bit. Better give Lynn a heads up, I can call now it's not too late.
 
-
 ---
 
 ### Taking a Load Off In E Lansing
@@ -515,7 +512,6 @@ So here's my bike. Feels like home. Happy to see you! OK, key goes in the lock l
                         0
 
 What a relief. A sad relief, but we're both growing now. Or not. By leaps and within our copious bounds, yes. 🎵Just naturally... 🎵  You know, how we are, she's got hers, I've got mine, we no longer give or share, if we press against each other now it's just gonna be a brick wall. Her words, bubble voice, and letters blow out, dark butterflies in the wind behind me on this road. Your countenance is now becoming that highway lens friend, that one tiny transparent gray spot at the far end of the visible stretch of I-90 highway we're on now. And yes, gradually, elastically, your little face detaches and floats on out and shifts back behind me, gazing just for a fraction of a second into my back (*Goodbye!*) before the fading; and I'm fixing in whole on where Pittsburgh will be and growing into that; in about 5 hours, Pittsburgh, you last knot, you! That gonna feel like a whole day... a whole way...we're on it.
-
 
 ---
 
@@ -684,7 +680,6 @@ Rabbi Erskin beamed at Aaron. Like a Rabbi. And asked. —Why do you want to be 
 
 —I have read it, yes, of course, very interesting, very well written. Yes. But, Aaron, I would like you to answer freely, now, in your own words, not as a research topic at university, but rather how you... well, how you feel about wanting to be a Rabbi, from the bottom of your... soul. —Rabbi Erskin leaned straight back in his chair and raised his head to countenance Aaron directly. And asked again. —Aaron. —Eyes to eyes. —Why do you want to be a Rabbi?
 
-
 ---
 
 ### Why do you want to be a Rabbi?
@@ -697,4 +692,4 @@ Well, this Rabbi is really waiting for my answer. I'm looking into his eyes and 
 
 —Aaron, tell me about when you were a child. —Rabbi Erskin is asking me to delve deeper— Did anything happen when you were a child that you remember that made you feel like wanting to be a Rabbi; maybe when you were very young, or a bit older, like 10, or in early adolescence, or later, before you graduated high school or college? What memories do you have in your life of wanting to be a Rabbi, or things that happened to you as you were growing up that might have something to do with your wanting to take this very, very difficult, hard, and demanding path?
 
-So I am closing my eyes and digging through me, mind and brain, through my heart, through a collage of motion pictures projected onto the inside of my skull, there, just above my forehead, so I do have my eyes open but vacant; the images appearing, some of them, for the first time, and I am relating all I see, all that transpires really, at a very slow pace, in words... 
+So I am closing my eyes and digging through me, mind and brain, through my heart, through a collage of motion pictures projected onto the inside of my skull, there, just above my forehead, so I do have my eyes open but vacant; the images appearing, some of them, for the first time, and I am relating all I see, all that transpires really, at a very slow pace, in words...

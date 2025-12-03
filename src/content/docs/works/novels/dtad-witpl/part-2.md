@@ -113,12 +113,12 @@ They let me go to veranda outside if I promise not to balance walk on the wall..
 
 Laugh laugh laugh laugh Mummy Evy no laugh, Mummy Evy no laugh, I laugh, laugh, laugh, laugh, Ruben playing in veranda, veranda... marbles on veranda floor, marbles rolling the pitted glass colors on green veranda floor, through the little railing is the green grass playground down below. Flick flick flick the marbles rolling.
 
-
 ---
 
 ### *Enfant* freedom preachers in the flats
 
 Aaron leaves the flat at 10 Dean House, Mummy Evy has just fiercely broken into bits and pieces one of the drawers of wooden cabinet Benjy Dad has hand-crafted so lovingly for her, saying he didn't listen to what she wanted and just made something for himself.
+
 Ruben goes to the boys room and flings himself on the bed, starts reading his book of Hans Christian Anderson stories. The boys got these books for their 10th birthday. Aaron got the Grimms brothers, Ruben Hans Christenson Anderson.
 Aaron flings open the front door, goes out through that door, slams it shut, and at the last moment tries for that not to be too noisy; as he walks into the playground he hears Mummy Evy briefly interrupting her tirade. —Little bastard. —she says, then goes on —Benjy, ya nevah lissen to what aym sayin...
 
