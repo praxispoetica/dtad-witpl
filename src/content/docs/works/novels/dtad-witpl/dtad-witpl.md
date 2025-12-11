@@ -29,4 +29,4 @@ description: Novel by v. o. kapelman
 
 🖨️ A premium print & eBook edition is available for purchase: 👉 (Premium edition link will be made available upon publication
 
-> Note: This novel is a work of Jewish coming of age *Bildungsroman* historical fiction. Names, characters, businesses, places, and incidents are either the products of the author's imagination or used fictitiously. Any resemblance to actual persons, living or dead, (with the exception of certain historical figures) is entirely coincidental."
+> Note: This novel is a work of Jewish coming of age *Bildungsroman* historical fiction. Names, characters, businesses, places, and incidents are either the products of the author's imagination or used fictitiously. Any resemblance to actual persons, living or dead, (with the exception of certain historical figures), or to any real-life events, is entirely coincidental."
