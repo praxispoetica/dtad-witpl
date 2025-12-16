@@ -138,4 +138,82 @@ Don't think I ever spoke to her again before we left for Amerika.
 
 ---
 
-*Rest of Second Part will be up Friday, December 12, 2025*
+### Brain Drain to Kanada
+
+The child gazed at the blue sky above but it wasn´t really blue being trilled with white clouds like they were used and were spent, and a little dirty, dissolving, right you are, a British sky, an English sky. In the spring.
+
+The child couldn't find the sun, so shifted their attention to a Vickers bomber trailing cloudlets of a different shade, a man shade, also dissolving, also British. Also English. The Bomber moved ever so slowly, so high up, so high up. It showed strength, the bomber, and wasn't coughing.
+
+On the ground was a different story. —Dad's home. Dad's home.
+
+Both boys, back from their bike ride, one blue and one red, yet identical, led their bikes in round the side door leading to the garden, left their bikes in the place allotted for their bikes, and came in the side door.
+
+Mummy Evy and Benjy Dad were having their five o'clock cocktails.
+
+—Guess what boys?  —shouted Benjy Dad. —Guess what?
+
+—wot?
+
+—wot?
+
+—We're moving to Kanada in three months! Things aren't so good at de Havilland these days, and at a lot of aircraft companies here, we know that, so we've decided we're not gonna buy a house here. Besides, we wanna get away from all this!! —gesticulating vaguely around the ceiling where we supposed the almost מניין (*minyan*) of brothers and sisters (*aunts and uncles, cousins to us*) were dryly commenting on the goings on, as was their wont. 
+
+—Think Benjy will really go? —Who knows? —Tea's ready. Pass the salt. (*They're always up there!*)
+
+The clouds dimmed. Dad Benjy set his drink on the side table and opened his arms wide on the couch where he was sitting. Mummy Evy looked on smilingly from her facing couch, enthusiastically nodding. —Go on boys, we're celebrating this today! We're leaving in three months.
+
+Ruben and Aaron ran enthusiastically over to Benjy Dad and the three met in a tight hug. Habitual, but not common.
+
+—Kanada, Kanada, where, where is that
+
+—It's to the north of the United States —Ruben answered his brother, then asked —Where in Kanada? We were just studying Kanada in Geography. Where? What province? What city?
+
+On the coffee table between the two couches lay brochures, maps. Marked maps, with routes, and brochures of the places.
+
+—Look boys. Quebec. Look, Montreal! We gotta learn French, I think. 
+
+—Wot we gotta learn French? —asked Mummy Evy
+
+—Naa —answered Benjy Dad —Everyone talks English. In Montreal everyone talks English and French. Look, the English Montreal School Board, the EMSB, full of great schools. —waving one of the papers. 
+
+The boys rushed over to give Mummy Evy her hug.
+
+—So we're gonna start selling the furniture. And stuff.
+
+So every day we start to see stuff, our own stuff, Ruben and I, appearing in boxes. Weird: they never asked us to do anything. Packed boxes start appearing everywhere, in ordered piles. Holding stuff from pieces of furniture, and as they emptied they got, like, closed; put somewhere; sold; gone.
+
+So after a couple more days, a week I think it was, we had another celebration day. Hugs to Benjy Dad on his couch. On Mummy Evy's couch, hugs with Mummy Evy. They had cocktails and chinked. We never actually drank there... the idea was, celebrate this new thing, this wonderful change, achievement or something (I forget what it was that day), then the boy go off to the kitchen to make some tea, and kind of leave Mummy Evy and Benjy Dad to go on... celebrating. While the boys had toast and jam in the kitchen after the bike ride.
+
+There was no ברוכה (brucha, blessing).
+
+So on some days, there were more brochures, maps, marked, neighborhoods, circles, houses, floor maps, fish 'n chips. Aaron often used to walk the short distance into town and buy the fish and chips, four servings, wrapped in a single cone of newspaper, delicious smell, newspaper slightly oily but firm.
+
+So early on the morning of the move, banging on the wall. The boys stayed in their bedroom, already dressed in their white underwear, waiting to be called.
+
+Banging on the wall. Shouting. 
+
+—Boys! —They were in the kitchen. The boys wandered in, their underwear.
+
+Mummy Evy was coming out of the kitchen. She passed by us and went on. We went into the kitchen.
+
+Benjy Dad's huge shaking face spoke to us through his eyes, huge and huger.
+
+—I've had a terrible dream. A terrible, terrible, dream. We're not going. It'll be a terrible, terrible mistake to go there. To Kanada. Horrible things will happen if we do. —Benjy Dad bent his huge head, grey even then, and wept. —I don't know what we're gonna do. You can go back to bed. Go back to bed. —It was a little startling. We wandered back to the living room.
+
+Then we wandered back to bed. Gazing for hours at the ceiling, both of us. Waving to the smiles and the quiet guffaws. At one point the boys wandered into their bedroom, after Mummy Evy called. Somehow he was already there in his bed, eyes fixated on the ceiling, shaking his head, his lips squeezed tight. And his eyes. And Mummy Evy comforting him caressing his head using movements she was not used to. Big shaking head. Benjy Dad head sat up, put his hands over his eyes, shivered, or cried or just sat their shaking too, his head too. Then one quick gesture of Mummy Evy and we were back in our room, reading in bed.
+
+Ruben had Hanns Christian Andersan, 
+
+—Shit. His skin looked... grey.
+
+Aaron had Grimm's; fairy tails.
+
+—Or grey-pink. Yeah.
+
+Then for the next few weeks some kind of order first emerged then was reckoned. Just the same. No-one went to work, or to school.
+
+Until we moved to London. *Back* to London. Until we wandered back to London.
+
+---
+
+*...more scenes up soon, as they're ready...*
