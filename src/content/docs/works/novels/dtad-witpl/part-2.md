@@ -182,7 +182,7 @@ The boys rushed over to give Mummy Evy her hug.
 
 So every day we start to see stuff, our own stuff, Ruben and I, appearing in boxes. Weird: they never asked us to do anything. Packed boxes start appearing everywhere, in ordered piles. Holding stuff from pieces of furniture, and as they emptied they got, like, closed; put somewhere; sold; gone.
 
-So after a couple more days, a week I think it was, we had another celebration day. Hugs to Benjy Dad on his couch. On Mummy Evy's couch, hugs with Mummy Evy. They had cocktails and chinked. We never actually drank there... the idea was, celebrate this new thing, this wonderful change, achievement or something (I forget what it was that day), then the boy go off to the kitchen to make some tea, and kind of leave Mummy Evy and Benjy Dad to go on... celebrating. While the boys had toast and jam in the kitchen after the bike ride.
+So after a couple more days, a week I think it was, we had another celebration day. Hugs to Benjy Dad on his couch. On Mummy Evy's couch, hugs with Mummy Evy. They had cocktails and chinked. We never actually drank there... the idea was, celebrate this new thing, this wonderful change, achievement or something (I forget what it was that day), then the boys go off to the kitchen to make some tea, and kind of leave Mummy Evy and Benjy Dad to go on... celebrating. While the boys had toast and jam in the kitchen after the bike ride.
 
 There was no ברוכה (brucha, blessing).
 
