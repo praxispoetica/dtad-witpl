@@ -7,4 +7,5 @@ featured: true
 ## PraxisPoetica for *Denying The Amerikan Dream. **Wandering Into The Promised Land***.
 - [PraxisPoetica I Writing and Publishing Process](/notes/note-20251119/)
 - [PraxisPoetica II Essential Writing Process](/notes/note-20251124/)
-- *draft* [PraxisPoetica III Iterative and Incremental Step 1. Premise](#) 
+- [PraxisPoetica III On the immense influence of Lajos Egri in all Contemporary Writing Process sources](/notes/note-20251225/)
+- *draft* [PraxisPoetica IV Iterative and Incremental Step 1. Premise](#) 

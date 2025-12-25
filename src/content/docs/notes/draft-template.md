@@ -10,7 +10,7 @@ tags:
 draft: true
 ---
 
-## PraxisPoetica III Iterative and Incremental Step 1. Premise
+## PraxisPoetica XXX Step 99. Publish
 
 ### Intro
 
