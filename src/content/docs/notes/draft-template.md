@@ -1,8 +1,8 @@
 ---
-title: PraxisPoetica III Step 1. Premise
+title: PraxisPoetica XXXXX Draft Template for Notes
 date: 2025-11-25
 cover:
-  alt: alt
+  alt: unused image
   image: ../../../assets/premise-Ae-CreativeCommons-253098057.jpeg
 tags:
   - PraxisPoetica

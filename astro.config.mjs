@@ -40,7 +40,7 @@ export default defineConfig({
 						items: ['about'],
 					},
 					{
-						label: 'PraxisPoetica process notes',
+						label: 'PraxisPoetica Process Notes',
 						link: '/notes',
 						icon: 'pencil',
 						items: ['notes/note-20251119'],
@@ -81,7 +81,7 @@ export default defineConfig({
 				),
 				starlightBlog({
 					prefix: 'notes',
-					title: 'PraxisPoetica process notes',
+					title: 'PraxisPoetica Process Notes',
 					authors: {
 						vokapelman: {
 							name: 'v. o. kapelman',
