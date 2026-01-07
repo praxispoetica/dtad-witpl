@@ -1,6 +1,14 @@
 ---
 import Default from '@astrojs/starlight/components/Footer.astro';
+const year = new Date().getFullYear()
 ---
 
 <Default><slot /></Default>
-<small><p class="text-center text-gray-400">© 2025 Victor Opas Kane. Some rights reserved. CC BY-NC-ND 4.0 Intl</p></small>
+<small>
+    <p class="text-center text-gray-400">© <span id="footer-year">{year}</span> Victor Opas Kane. Some rights reserved. CC BY-NC-ND 4.0 Intl</p>
+</small>
+
+<script is:inline>
+    // credit "https://astro-tips.dev/recipes/dynamic-footer-date-for-static-websites/: 
+    document.getElementById("footer-year").innerText = new Date().getFullYear();
+</script>
