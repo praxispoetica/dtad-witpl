@@ -5,7 +5,13 @@ const year = new Date().getFullYear()
 
 <Default><slot /></Default>
 <small>
-    <p class="text-center text-gray-400">© <span id="footer-year">{year}</span> Victor Opas Kane. Some rights reserved. CC BY-NC-ND 4.0 Intl</p>
+    <p class="text-center text-gray-400">© 
+        <span id="footer-year">{year}</span>&nbsp;
+        Victor Opas Kane. Some rights reserved. 
+        <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+            CC BY-NC-ND 4.0 International License
+        </a>
+    </p>
 </small>
 
 <script is:inline>
