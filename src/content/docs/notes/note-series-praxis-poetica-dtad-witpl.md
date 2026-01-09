@@ -9,3 +9,4 @@ featured: true
 - [PraxisPoetica II Essential Writing Process](/notes/note-20251124/)
 - [PraxisPoetica III On the immense influence of Lajos Egri in all Contemporary Writing Process sources](/notes/note-20251225/)
 - [PraxisPoetica IV. Step 1. The Premise that Impels the Writer and Drives the Story](/notes/note-20251227/)
+- [PraxisPoetica V. Step 2. The Pivotal Character](/notes/note-20260107/)

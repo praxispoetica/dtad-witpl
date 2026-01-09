@@ -11,7 +11,7 @@ description: Novel by v. o. kapelman
 
 ---
 
-###### © 2025 Victor Opas Kane. All rights reserved except as stated in the following. This work by v. o. kapelman is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+###### © 2026 Victor Opas Kane. All rights reserved except as stated in the following. This work by v. o. kapelman is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
 
 📖 This novel, *Wandering Into The Promised Land*, will be part of a series, *Denying The Amerikan Dream*, all to be published under the authorship and pen-name of v. o. kapelman.
 
