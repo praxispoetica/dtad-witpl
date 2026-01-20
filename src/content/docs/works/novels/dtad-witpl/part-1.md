@@ -37,7 +37,7 @@ I eat the pie slowly, the flaky chocolate making my ears buzz in a sugar high wh
 
 The spineless coffee buzzes me not but momentarily warms my heart. The frightening hospitality of the giggling waitress would otherwise invite me even though she be as untouchable as a roman priestess (are roman priestesses untouchable?) with her arms outstretched bearing ostrich meat and turquoise drinks in star trek glasses…
 
-The waitress goes back into the kitchen, and muttering some bullshit to myself I get up. I slouch in the direction of the bathroom, then expertly slide out the saloon doors. I’m free. Actually, it makes no difference, no-one is watching me.
+The waitress goes back into the kitchen, and muttering some bullshit to myself I get up. I slouch in the direction of the bathroom, then expertly slide, kinda creep out the saloon doors. I’m free. Actually, it makes no difference, no-one is watching me.
 
 The rush out of the saloon coffee shop of the bright bowling alley makes me feel conspicuous as well as tired. There are four cars parked in the parking lot. One, further away, an unchromed 54 Chevy. I open the rear right door and lay down on the unleathery plastic, invisible and relieved. Hugging the night as if it were mother. I sleep for a while, but I cannot understand why the stars twinkle still and I am inviting an ugly scene if the owner comes out now and finds me in their car. Is the owner the waitress? Should I stay here comfortable as I am with the door against my foot, the bastion chassis retaining me, destiny breathing down my neck with the smells of the car, the oil, the gas, the cigarette lighter, the clock still working…
 
@@ -61,7 +61,7 @@ The door is locked with a heavy iron padlock, see?, right out of the consciousne
 
 How could the church door be locked closed and refuse me its floor?
 
-I guess I’ve slept three or four hours on the non-stone cement steps, and then wake up. There are splinters in my hands from pounding every now and then on the door. The 54 Chevy is still in the parking lot. The lights are out and the morning is gray. I mount my bike and ride away roughly in the general direction of New York. I fervently hope the waitress will not have to pay for the piece of pie out of her own money.
+I guess I’ve slept three or four hours on the non-stone cement steps, and then wake up. There are splinters in my hands from pounding every now and then on the door. The 54 Chevy is still in the parking lot. The lights are out and the morning is gray. I'm a creep. I mount my bike and ride away roughly in the general direction of New York. I fervently hope the waitress will not have to pay for the piece of pie out of her own money.
 
 ---
 
@@ -662,7 +662,7 @@ Happy to get to 307. A roof. A roof! No more route anymore. A roof. I open the d
 
 Next morning I wake at six after sleeping ten hours. There is someone snoring in the other bed, I must not wake Renzo. Just need to get up, wash my face and find out about breakfast... oh yes!!!! And then the appointment with Rabbi Erskin.
 
-Ger up quietly... wash face in the adjoining wash room. Without changing clothes, creep out of the room to find breakfast Breakfast in an empty, quiet cafeteria, totally on my own; no-one else in large hall. An oldish, quality semi-shiny white painted and bulb lighted but high ceilinged room with lots of dark wooden piecings but modern ceramic flooring. Laid out on tables there are bare but generous servings of cereals, tea and coffee, toast, scrambled eggs in a heated tray... you know... heavan for me! heaven for me! Oh, my G-d. Heaven for me.
+Get up quietly... wash face in the adjoining wash room. Without changing clothes, creep out of the room to find breakfast. Breakfast in an empty, quiet cafeteria, totally on my own; no-one else in large hall. An oldish, quality semi-shiny white painted and bulb lighted but high ceilinged room with lots of dark wooden piecings but modern ceramic flooring. Laid out on tables there are bare but generous servings of cereals, tea and coffee, toast, scrambled eggs in a heated tray... you know... heavan for me! heaven for me! Oh, my G-d. Heaven for me.
 
 I read the student admissions brochure after eating a couple of servings of everything. Oh, my G-d. A roof and no more route. Toast! Eggs! A room. Arrival!
 

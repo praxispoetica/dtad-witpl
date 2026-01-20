@@ -85,7 +85,7 @@ export default defineConfig({
 					authors: {
 						vokapelman: {
 							name: 'v. o. kapelman',
-							title: 'Author of the `Denying The Amerikan Dream` series of novels. `Wandering into the Promised Land`, the eldest, currently under construction right here online.',
+							title: 'Author of the `Denying The Amerikan Dream` series of novels. `Wandering into the Promised Land`, the eldest, currently being born, right here online.',
 							url: 'https://vokapelman.com',
 							picture: './src/assets/vk-180x180.jpg',
 						},
