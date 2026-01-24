@@ -11,4 +11,4 @@ featured: true
 - [PraxisPoetica IV. Step 1. The Premise that Impels the Writer and Drives the Story](/notes/note-20251227/)
 - [PraxisPoetica V. Step 2. The Pivotal Character](/notes/note-20260107/)
 - [PraxisPoetica VI. Step 3. The Novel Blueprint](/notes/note-20260118/)
-- [PraxisPoetica VII. Step 4. From Premise to Protagonist to Synopsis to Novel Outline to Opening and Ending Scene to Novel Blueprint](/notes/note-20260121/)
+- [PraxisPoetica VII. Step 4. Transition. From Premise to Opening and Ending Scene](/notes/note-20260121/)
