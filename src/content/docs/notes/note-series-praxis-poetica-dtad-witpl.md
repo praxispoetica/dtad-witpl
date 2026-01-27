@@ -12,3 +12,4 @@ featured: true
 - [PraxisPoetica V. Step 2. The Pivotal Character](/notes/note-20260107/)
 - [PraxisPoetica VI. Step 3. The Novel Blueprint](/notes/note-20260118/)
 - [PraxisPoetica VII. Step 4. Transition. From Premise to Opening and Ending Scene](/notes/note-20260121/)
+- [PraxisPoetica VIII. Step 5. Let's roll out the whole flow and Kanban Board of Process and Artifacts from the Premise](/notes/note-20260125/)
